@@ -3,8 +3,7 @@
 > still work in progress!
 
 ## Demo:
-[![asciicast](https://asciinema.org/a/Hep4w9BHgRNa9DTSsykWDVgw5.svg)](https://asciinema.org/a/Hep4w9BHgRNa9DTSsykWDVgw5)
-
+[![asciicast](https://asciinema.org/a/jnyPtxhZ3dWicJ3uDqe8qpJBT.svg)](https://asciinema.org/a/jnyPtxhZ3dWicJ3uDqe8qpJBT)
 
 To-Do:
 - [x] Working Prototype
