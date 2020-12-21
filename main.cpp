@@ -20,6 +20,7 @@ class Game{
 		}
 
 		void printGrid(){
+			cout << "\033[2J\033[1;1H";
 			for(int x = 0; x < GRID_SIZE; x++){
 				for(int y = 0; y < GRID_SIZE; y++){
 					printf(" %c |", grid[x][y]);
